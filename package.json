@@ -9,8 +9,12 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "express": "^4.17.2",
     "register-service-worker": "^1.7.1",
-    "vue": "^3.0.0"
+    "server-renderer": "^0.6.8-alpha",
+    "vue": "^3.0.0",
+    "webpack-manifest-plugin": "^4.0.2",
+    "webpack-node-externals": "^3.0.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
